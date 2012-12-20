@@ -18,6 +18,7 @@ end
 
 group :test do
 	gem 'rspec', '2.12.0'
+	gem 'autotest'
 end
 
 # Gems used only for assets and not required
